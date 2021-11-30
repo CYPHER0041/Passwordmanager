@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Passwordmanager</string>
+    <string name="clear_all_data">Clear All</string>
+    <string name="clear_data_toast_text">Deleted</string>
+    <string name="empty_not_saved">Data not saved because it is empty</string>
+    <string name="enter_url">Enter a site url</string>
+    <string name="enter_username">Enter a username</string>
+    <string name="enter_password">Enter a password</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+</resources>
